@@ -3,11 +3,11 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env'
 function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
-global.email = 'vajirarathnayaka891@gmail.com'
-global.github = 'https://github.com/VajirTech/VAJIRA-MD'
-global.location = 'Srilanka Colombo'
+global.email = 'thasinduniduwara2005@gmail.com'
+global.github = 'https://github.com/thasinduniduwara'
+global.location = 'Srilanka galle'
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = ' ';
+global.author = ' MR.THASINDU';
 global.mess = {
     banned: '`You are *Banned* fron using commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
